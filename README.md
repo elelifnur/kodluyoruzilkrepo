@@ -14,4 +14,4 @@ code .
 ### Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 ## resim
-[kodluyoruz resim] ()
+[kodluyoruz resim] (https://www.osevio.com/blog/wp-content/uploads/2018/08/osevio-blog-cicek-resmi.jpg)git 
